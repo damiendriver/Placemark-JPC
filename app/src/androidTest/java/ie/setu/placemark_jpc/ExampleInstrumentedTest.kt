@@ -1,4 +1,4 @@
-package ie.setu.placemark_jpc_v1
+package ie.setu.placemark_jpc
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

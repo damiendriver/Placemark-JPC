@@ -1,4 +1,4 @@
-package ie.setu.placemark_jpc_v1.ui.theme
+package ie.setu.placemark_jpc.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

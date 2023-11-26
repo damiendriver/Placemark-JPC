@@ -1,4 +1,4 @@
-package ie.setu.placemark_jpc_v1.ui.theme
+package ie.setu.placemark_jpc.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun PlacemarkJPCV1Theme(
+fun PlacemarkJPCTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
